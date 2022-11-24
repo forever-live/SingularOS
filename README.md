@@ -1,0 +1,2 @@
+# SingularOS
+make build world
